@@ -1,1 +1,1 @@
-I am a git master!
+I am a git novice!
